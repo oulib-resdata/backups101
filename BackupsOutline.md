@@ -45,6 +45,7 @@ Pointers on how to identify what should be backed up
 ### How to Decide on a Frequency *(4 minutes)*
 * How often does the content change
 * How much work would be lost in the time
+* How much would it cost you to replace that work?  (particularly important for physical samples?)
 * How much work is required to maintain that frequency
 
 ### Backup Culture *(4 minutes)*
@@ -57,6 +58,7 @@ Pointers on how to identify what should be backed up
 
 ### Horror Stories *(8 minutes)*
 Mini-Nightmare on Research Street
+* Have at least one instructor example to get people started
 
 ### Success Stories *(8 minutes)*
 Share Stories about when Backups worked
@@ -65,8 +67,8 @@ Share Stories about when Backups worked
 
 ## How Should You Backup
 
-### Useful Tools *(3 minutes)*
+### Useful Tools and Systems *(6 minutes)*
 Point the participants toward some tools (or resources that explain tools) or DAVIS or some way to move toward better backups
-
-### Systems *(3 minutes)*
-Recommendations for systems the participants might want to look into
+* Is this where we could partner with OU IT?
+* Recommendations for systems the participants might want to look into (OU IT)
+* Some general purpose for all operating systems (if such exists) and some for each of the big three
