@@ -17,6 +17,7 @@ We will include examples here for the instructor.
 
 ### What Files Should You Backup *(4 minutes)*
 Some talking points about how to determine what files need to be backed up or the scale of the backup. Whole disk backup? Specific files?
+* Should we cover physical copies as well or make that an FYI or just mention it as a potential thought since those things will vary so much?
 
 #### How Do You Make That Determination *(4 minutes)*
 Pointers on how to identify what should be backed up
