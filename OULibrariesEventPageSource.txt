@@ -9,4 +9,4 @@ By the end of this workshop you should be able to:<br />
 <br />
 Registration is recommended.<br />
 <br />
-Survival Skills is a new beginner-level workshop collection for researchers presented by DAVIS @ OU Libraries. These workshops cover basic data and computing skills needed in all research fields. No prior experience needed.
+Survival Skills is a new beginner-level workshop collection for researchers presented by OU Libraries in collaboration with DAVIS. These workshops cover basic data and computing skills needed in all research fields. No prior experience needed.
