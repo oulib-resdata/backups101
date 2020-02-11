@@ -1,26 +1,61 @@
 # Backups 101 Outline
 ### *57 Minutes w/ 3 minutes flex*
 
-## Who Should Backup
+----
+
+## Why Should You Backup
+
+Use the examples if they don't get talking, or to elaborate on these points.
+
+### Horror Stories *(8 minutes)*
+Stories we have heard here at the libraries:
+* Data backed up in one place, on tapes.  Tapes did not work.  All data lost.
+* Brent's colleague who lost three months of data without trying to recover (and not having it backed up)
+
+### Success Stories *(8 minutes)*
+Stories we have heard where backups saved us:
+* Beware of pinch points in data process: Brent's example of specimens that could get blown away
+* Erasing a file and getting its backup from the external hard drdive
 
 ----
 
+
+## Who Should Backup
+
 ### Group Exercise *(6 minutes)*
-The instructor will lead the students in an exercise that will ask the students to identify people that should use backups. Students will likely quickly identify obvious groups like Researchers or Data Archivists etc. The instructor should 
+The instructor will lead the students in an exercise that will ask the students to identify people that should use backups.
+First, ask the room to name roles who should back up data.  Then, give them each example one at a time.  Should the person back up?
 
 ### Examples
-We will include examples here for the instructor.
+- Undergraduate students entering data for a graduate student's project
+- Faculty writing a textbook
+- Graduate student in the field with paper datasheets
+- Lab manager who maintains lab computer
+- Undergrad student working on their own research project
+
+The point is, the responsible person should back up things they don't want to lose!  Don't assume someone else is in charge, though.  Ask.  Make a backup if you're not sure.
 
 ----
 
 ## What Should You Backup
+But what, specifically, should you keep?
 
 ### What Files Should You Backup *(4 minutes)*
-Some talking points about how to determine what files need to be backed up or the scale of the backup. Whole disk backup? Specific files?
-* Should we cover physical copies as well or make that an FYI or just mention it as a potential thought since those things will vary so much?
 
 #### How Do You Make That Determination *(4 minutes)*
 Pointers on how to identify what should be backed up
+* Money cost of data to recreate
+* Inconvenience of backup method
+* Time cost of data to recreate
+* How sad will you be?
+
+#### Some potential tradeoffs to help determine what files need to be backed up or the scale of the backup.
+* Trade off between how fast you can get your files back between inconvenience (backing up whole hard drive)
+* Specific files - you might forget a file
+* A common compromise is all data files, but not your operating system
+* Physical files and some ways you can deal with (scanning, photographing, dividing up samples) 
+* Some backups for physical items may be very time consuming or impossible (scientific specimens)
+
 
 ----
 
@@ -31,13 +66,17 @@ Pointers on how to identify what should be backed up
 * Two Copies Local (but on different devices)
 * One Copy at a Remote Location
 
-*Some sort of hands on activity to illustrate this?*
+
 
 ### Medium Considerations *(3 minutes)*
 * Frequency of use (i.e. harddisks that need to run constantly need to be rated for that)
 * Cost of Operation vs. Security
 * Limitation of the Medium
+	* Cloud access loss of control
+	* Hard drive is an object to keep track of
 * Advantages of the Medium
+	* Cloud access is far away
+	* You have control of local hard drive
 
 ----
 
@@ -55,21 +94,10 @@ Pointers on how to identify what should be backed up
 
 ----
 
-## Why Should You Backup
-
-### Horror Stories *(8 minutes)*
-Mini-Nightmare on Research Street
-* Have at least one instructor example to get people started
-
-### Success Stories *(8 minutes)*
-Share Stories about when Backups worked
-
-----
 
 ## How Should You Backup
 
 ### Useful Tools and Systems *(6 minutes)*
-Point the participants toward some tools (or resources that explain tools) or DAVIS or some way to move toward better backups
-* Is this where we could partner with OU IT?
-* Recommendations for systems the participants might want to look into (OU IT)
-* Some general purpose for all operating systems (if such exists) and some for each of the big three
+Point the participants toward some tools (or resources that explain tools) to move toward better backups
+* Some general purpose for all operating systems
+* Some for each of the big three
