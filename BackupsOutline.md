@@ -9,8 +9,8 @@ Use the examples if they don't get talking, or to elaborate on these points.
 
 ### Horror Stories *(8 minutes)*
 Stories we have heard here at the libraries:
-* Data backed up in one place, on tapes.  Tapes did not work.  All data lost.
-* Brent's colleague who lost three months of data without trying to recover (and not having it backed up)
+* Data backed up in one place, on tapes.  Tapes did not work.  All data lost.  
+* Beth's colleague who lost three months of data without trying to recover (and not having it backed up)  
 
 ### Success Stories *(8 minutes)*
 Stories we have heard where backups saved us:
