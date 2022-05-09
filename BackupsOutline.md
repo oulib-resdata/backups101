@@ -9,12 +9,12 @@ Use the examples if they don't get talking, or to elaborate on these points.
 
 ### Horror Stories *(8 minutes)*
 Stories we have heard here at the libraries:
-* Data backed up in one place, on tapes.  Tapes did not work.  All data lost.  
-* Beth's colleague who lost three months of data without trying to recover (and not having it backed up)  
+- Data backed up in one place, on tapes.  Tapes did not work.  All data lost.  
+- Beth's colleague who lost three months of data without trying to recover (and not having it backed up)  
 
 ### Success Stories *(8 minutes)*
 Stories we have heard where backups saved us:
-* Beware of pinch points in data process: Brent's example of specimens that could get blown away
+* Beware of pinch points in data process: Beth's example of specimens that could get blown away
 * Erasing a file and getting its backup from the external hard drdive
 
 ----
